@@ -1,0 +1,15 @@
+C:\Users\cyril.henry\source\ig-trading\IGTrading\bin\Debug\net6.0\IGTrading.exe
+C:\Users\cyril.henry\source\ig-trading\IGTrading\bin\Debug\net6.0\IGTrading.deps.json
+C:\Users\cyril.henry\source\ig-trading\IGTrading\bin\Debug\net6.0\IGTrading.runtimeconfig.json
+C:\Users\cyril.henry\source\ig-trading\IGTrading\bin\Debug\net6.0\IGTrading.dll
+C:\Users\cyril.henry\source\ig-trading\IGTrading\bin\Debug\net6.0\ref\IGTrading.dll
+C:\Users\cyril.henry\source\ig-trading\IGTrading\bin\Debug\net6.0\IGTrading.pdb
+C:\Users\cyril.henry\source\ig-trading\IGTrading\obj\Debug\net6.0\IGTrading.csproj.AssemblyReference.cache
+C:\Users\cyril.henry\source\ig-trading\IGTrading\obj\Debug\net6.0\IGTrading.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cyril.henry\source\ig-trading\IGTrading\obj\Debug\net6.0\IGTrading.AssemblyInfoInputs.cache
+C:\Users\cyril.henry\source\ig-trading\IGTrading\obj\Debug\net6.0\IGTrading.AssemblyInfo.cs
+C:\Users\cyril.henry\source\ig-trading\IGTrading\obj\Debug\net6.0\IGTrading.csproj.CoreCompileInputs.cache
+C:\Users\cyril.henry\source\ig-trading\IGTrading\obj\Debug\net6.0\IGTrading.dll
+C:\Users\cyril.henry\source\ig-trading\IGTrading\obj\Debug\net6.0\ref\IGTrading.dll
+C:\Users\cyril.henry\source\ig-trading\IGTrading\obj\Debug\net6.0\IGTrading.pdb
+C:\Users\cyril.henry\source\ig-trading\IGTrading\obj\Debug\net6.0\IGTrading.genruntimeconfig.cache
