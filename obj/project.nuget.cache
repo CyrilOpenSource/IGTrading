@@ -1,8 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "a+O14keDaGgjGbepUzhiq87WhbqEN3j6MiF0ou/tp6qoGDaefM1FsvnwMXzt/z8b4QuNyiwlgdiNvNoyJ7g8Yw==",
+  "dgSpecHash": "9R8qQzfIGOEZEm6jNdNVV4WlHfA4zt10wIG4epQqcm+5yITJqNIAdBsCbtHvNg+Z+JYH13fKUwbdgmoynMGqoQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\cyril.henry\\source\\ig-trading\\IGTrading\\IGTrading.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\cyril.henry\\.nuget\\packages\\csvhelper\\27.2.1\\csvhelper.27.2.1.nupkg.sha512",
+    "C:\\Users\\cyril.henry\\.nuget\\packages\\talib.netcore\\0.4.4\\talib.netcore.0.4.4.nupkg.sha512"
+  ],
   "logs": []
 }

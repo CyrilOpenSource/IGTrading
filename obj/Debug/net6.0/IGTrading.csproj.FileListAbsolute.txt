@@ -13,3 +13,6 @@ C:\Users\cyril.henry\source\ig-trading\IGTrading\obj\Debug\net6.0\IGTrading.dll
 C:\Users\cyril.henry\source\ig-trading\IGTrading\obj\Debug\net6.0\ref\IGTrading.dll
 C:\Users\cyril.henry\source\ig-trading\IGTrading\obj\Debug\net6.0\IGTrading.pdb
 C:\Users\cyril.henry\source\ig-trading\IGTrading\obj\Debug\net6.0\IGTrading.genruntimeconfig.cache
+C:\Users\cyril.henry\source\ig-trading\IGTrading\bin\Debug\net6.0\TALib.NETCore.dll
+C:\Users\cyril.henry\source\ig-trading\IGTrading\obj\Debug\net6.0\IGTrading.csproj.CopyComplete
+C:\Users\cyril.henry\source\ig-trading\IGTrading\bin\Debug\net6.0\CsvHelper.dll

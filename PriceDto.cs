@@ -1,11 +1,11 @@
 ﻿// See https://aka.ms/new-console-template for more information
-internal class PriceDto
+public class PriceDto
 {
-  public  DateTime timeStamp;
-  public decimal high;
-  public decimal low;
-  public decimal close;
-  public decimal open;
-  public decimal sma1;
-  public decimal sma2;
+  public  DateTime timeStamp { get; set; }
+  public double high { get; set; }
+  public double low { get; set; }
+  public double close { get; set; }
+  public double open { get; set; }
+  public double sma1 { get; set; }
+  public double sma2 { get; set; }
 }
