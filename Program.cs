@@ -34,7 +34,7 @@ for (int mmH = 70; mmH < 80; mmH++)
     {
         foreach (var p in prices)
         {
-            if (sma20[lastIndex] > sma200[lastIndex] && isLong == false)
+            if (sma20[lastIndex] > sma200[lastIndex] && (sma20[lastIndex]!=0 && sma200[lastIndex]!=0) && isLong == false)
             {
                 bought = p.close * contract * quantity;
                 isLong = true;
